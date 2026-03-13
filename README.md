@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![h-webster's GitHub stats](https://github-readme-stats-gray-eight-32.vercel.app/api?username=h-webster&count_private=true&show_icons=true&hide=issues)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,cpp,java,py,ts,nodejs,mongodb,vercel,vite&perline=4)](https://skillicons.dev)
